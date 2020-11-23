@@ -62,7 +62,4 @@ permalink: pretty
 #for posts
 defaults:
   - scope:
-      path: ""
-      type: "posts"
-    values:
-      permalink: ""
+      image: /img/profile.png 
