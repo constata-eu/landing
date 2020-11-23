@@ -1,6 +1,7 @@
 # Site settings
 title: constata.eu
 email: admin@constata.eu
+baseurl: ""
 url: https://constata-eu.github.io/landing
 description: "Constatamos tus conversaciones con sello de tiempo en Blockchain utilizando firmas electrónicas."
 keywords: "blockchain, constata, timestamping, sello, tiempo, firma, electrónica, signature"
