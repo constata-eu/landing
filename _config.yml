@@ -62,11 +62,12 @@ markdown: kramdown
 permalink: pretty
 
 defaults:
-  - values:
+  - 
+    values:
       image: /img/profile.png
       twitter:
         card: "summary"
         
 plugins:
-  - jekyll-seo-tag
   - jekyll-feed
+  - jekyll-seo-tag
