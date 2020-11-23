@@ -2,6 +2,7 @@
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   {%- seo -%}
+  {%- feed_meta -%}
   <title>
     {{ site.title }}
   </title>
@@ -13,7 +14,7 @@
   {% endif %}
   <link
     rel="canonical"
-    href="{{ page.url | replace:'index.html','' | prepend: site.url }}"
+    href="{{ site.url }}"
   />
   <link
     rel="alternate"
