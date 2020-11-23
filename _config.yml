@@ -60,9 +60,11 @@ credits: 'Trabajamos por un mundo más transparente.'
 markdown: kramdown
 permalink: pretty
 
-#for posts
 defaults:
   - values:
       image: /img/profile.png
       twitter:
         card: "summary"
+        
+plugins:
+  - jekyll-seo-tag
