@@ -8,6 +8,7 @@ keywords: "blockchain, constata, timestamping, sello, tiempo, firma, electrónic
 skills: "Constatamos conversaciones"
 meta_author: Nubis & Bronxi
 logo: /img/profile.png
+twitter: card
 
 # Google webmaster tools
 google_verify:
@@ -65,8 +66,7 @@ defaults:
   - 
     values:
       image: /img/profile.png
-      twitter:
-        card: "summary"
+
         
 plugins:
   - jekyll-feed
