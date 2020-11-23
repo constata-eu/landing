@@ -62,4 +62,6 @@ permalink: pretty
 #for posts
 defaults:
   - scope:
-      image: /img/profile.png 
+      image: /img/profile.png
+      twitter:
+        card: "summary"
