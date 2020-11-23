@@ -7,7 +7,7 @@ description: "Constatamos tus conversaciones con sello de tiempo en Blockchain u
 keywords: "blockchain, constata, timestamping, sello, tiempo, firma, electrónica, signature"
 skills: "Constatamos conversaciones"
 meta_author: Nubis & Bronxi
-logo: /img/profile.png
+logo: /logo.jpg
 twitter: 
   card: summary
 
@@ -66,7 +66,7 @@ permalink: pretty
 defaults:
   - 
     values:
-      image: /img/profile.png
+      image: /logo.jpg
 
         
 plugins:
